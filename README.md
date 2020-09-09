@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://drive.google.com/file/d/1R53lW_KYyAWWD3E7Y8xEj5QAcd5_kZob/view?usp=sharing' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![IOS Tip Calculator](demo/tippy.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
